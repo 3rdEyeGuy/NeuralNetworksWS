@@ -1,0 +1,28 @@
+Structure if the netowrk is more important than the actual equations when 
+building a neural network.
+
+Many different architectures for models, many popular ones etc..
+
+There are different types of layers in neural nets.
+
+Common Architectures that are easily implemented:
+    Dense/fully-connected/feed-forward
+    Convolutional
+    Long short term memory
+
+Fulled connected:
+    As mann connecytions as possible without being redundant
+
+Convolutional:
+    Comes from computer vision research
+Back propogation:
+    Is the key to neural networks and building AI
+
+Keras:
+    Allows us to write %10 of 'fillercode' for using tensorflo
+
+
+Question:
+    How is AI applied to the Federal Reserve?
+    How do you know how many neurons you will need to use for an app?
+
